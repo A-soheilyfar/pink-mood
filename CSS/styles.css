@@ -76,6 +76,7 @@ footer {
     padding: 10px 20px 10px 35px;
     height: auto;
     width: 100%;
+    text-align: justify;
   }
   footer {
     text-align: center;
@@ -119,7 +120,7 @@ footer {
   .item2,
   p {
     display: block;
-    text-align: center;
+    text-align: justify;
   }
   p {
     margin: 0 auto;
