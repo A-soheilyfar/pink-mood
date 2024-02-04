@@ -34,7 +34,7 @@ p {
 footer {
   background-color: palevioletred;
   padding: 10px;
-  margin: 10px 0;
+  text-align: left;
   color: aliceblue;
   font-family: "Josefin Sans", sans-serif;
   font-weight: bold;
@@ -155,9 +155,4 @@ footer {
     font-size: 18px;
     width: 100%;
   }
-}
-
-footer {
-  margin: 0 auto;
-  text-align: center;
 }
